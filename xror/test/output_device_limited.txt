@@ -1,0 +1,61 @@
+Application: Beat Saber
+Device Name 1:
+  - Oculus Rift CV1
+  - Oculus_Link_Quest
+  - Vive Elite
+  - Oculus Quest
+  - PICO 4
+  - Rift_S
+  - Oculus Quest2
+  - Vive. MV
+  - disco
+  - Oculus_Link_Quest_2
+  - Oculus Quest 2
+  - Index
+  - Pico Neo 3
+  - HP Reverb Virtual Reality Headset G20
+  - Vive MV
+  - Oculus Rift S
+  - Acer AH1010
+  - VIVE Pro 2
+  - Rift_CV1
+  - VIVE_Pro MV
+Device Name 2:
+  - OpenVR Controller(Oculus Quest2 (Left Controller)) - Left
+  - OpenVR Controller(WindowsMR: 0x045E/0x066A/0/2) - Left
+  - OpenVR Controller(Knuckles Left) - Left
+  - OpenVR Controller(Vive Controller MV) - Left
+  - OpenVR Controller(VIVE Controller Pro MV) - Left
+  - Oculus Touch
+  - OpenVR Controller(Oculus Rift CV1 (Left Controller)) - Left
+  - OpenVR Controller(Vive. Controller MV) - Left
+  - OpenVR Controller(Oculus Rift S (Left Controller)) - Left
+  - OpenVR Controller(Oculus Quest (Left Controller)) - Left
+  - OpenVR Controller(Pico  Neo3  Controller left) - Left
+  - OpenVR Controller(disco) - Left
+  - OpenVR Controller(WindowsMR: 0x045E/0x065B/0/2) - Left
+  - Unknown
+Device Name 3:
+  - OpenVR Controller(Vive. Controller MV) - Right
+  - OpenVR Controller(Oculus Quest2 (Right Controller)) - Right
+  - OpenVR Controller(Oculus Quest (Right Controller)) - Right
+  - OpenVR Controller(Oculus Rift CV1 (Right Controller)) - Right
+  - OpenVR Controller(WindowsMR: 0x045E/0x065B/0/2) - Right
+  - OpenVR Controller(WindowsMR: 0x045E/0x066A/0/2) - Right
+  - OpenVR Controller(Vive Controller MV) - Right
+  - OpenVR Controller(Knuckles Right) - Right
+  - Oculus Touch
+  - OpenVR Controller(Pico  Neo3  Controller right) - Right
+  - OpenVR Controller(disco) - Right
+  - OpenVR Controller(VIVE Controller Pro MV) - Right
+  - OpenVR Controller(Oculus Rift S (Right Controller)) - Right
+  - Unknown
+
+Application: Tilt Brush
+Device Name 1:
+  - BRUSH
+Device Name 2:
+  - unknown
+Device Name 3:
+  - unknown
+
